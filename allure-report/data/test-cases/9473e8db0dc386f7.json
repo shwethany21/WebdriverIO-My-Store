@@ -1,0 +1,218 @@
+{
+  "uid" : "9473e8db0dc386f7",
+  "name" : "verify SignIn link exist and click on SignIn Link",
+  "fullName" : "My Store app : Registration to Payment flow .verify SignIn link exist and click on SignIn Link",
+  "historyId" : "7f8a3b783e04b8029a1a9edcd9e894f4",
+  "time" : {
+    "start" : 1602434188919,
+    "stop" : 1602434192873,
+    "duration" : 3954
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1602434188921,
+        "stop" : 1602434188949,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7333a7089660f8ff",
+        "name" : "Request",
+        "source" : "7333a7089660f8ff.json",
+        "type" : "application/json",
+        "size" : 48
+      }, {
+        "uid" : "13b1150e7c9c43dd",
+        "name" : "Response",
+        "source" : "13b1150e7c9c43dd.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1602434188956,
+        "stop" : 1602434188971,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b3e5d31d971f262",
+        "name" : "Request",
+        "source" : "b3e5d31d971f262.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "ddbcd76cd55202b2",
+        "name" : "Response",
+        "source" : "ddbcd76cd55202b2.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1602434188971,
+        "stop" : 1602434188987,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1bc83d84a317419e",
+        "name" : "Request",
+        "source" : "1bc83d84a317419e.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "830a1fbacb24aeb8",
+        "name" : "Response",
+        "source" : "830a1fbacb24aeb8.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1602434188988,
+        "stop" : 1602434189003,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ac67dcc2defa1880",
+        "name" : "Request",
+        "source" : "ac67dcc2defa1880.json",
+        "type" : "application/json",
+        "size" : 48
+      }, {
+        "uid" : "7793a0d40b1f474",
+        "name" : "Response",
+        "source" : "7793a0d40b1f474.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1602434189005,
+        "stop" : 1602434189019,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c62ad3483f87ff29",
+        "name" : "Request",
+        "source" : "c62ad3483f87ff29.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "1bd20ee2e03a202e",
+        "name" : "Response",
+        "source" : "1bd20ee2e03a202e.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/bc0ee23b-efd5-44df-a099-2c9e8bb8ab84/click",
+      "time" : {
+        "start" : 1602434189019,
+        "stop" : 1602434192873,
+        "duration" : 3854
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 10
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Store app : Registration to Payment flow "
+  }, {
+    "name" : "testClass",
+    "value" : "My Store app : Registration to Payment flow "
+  }, {
+    "name" : "testMethod",
+    "value" : "verify SignIn link exist and click on SignIn Link"
+  }, {
+    "name" : "package",
+    "value" : "My Store app : Registration to Payment flow "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9473e8db0dc386f7.json",
+  "parameterValues" : [ "chrome-86.0.4240.75" ]
+}

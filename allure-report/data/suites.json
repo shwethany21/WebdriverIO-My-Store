@@ -1,0 +1,126 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "My Store app : Registration to Payment flow ",
+    "children" : [ {
+      "name" : "verify landing page title",
+      "uid" : "a99be07c3d68cbe8",
+      "parentUid" : "70e6791598a5e49fe844aa784dcccc0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602434179744,
+        "stop" : 1602434188918,
+        "duration" : 9174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "verify SignIn link exist and click on SignIn Link",
+      "uid" : "9473e8db0dc386f7",
+      "parentUid" : "70e6791598a5e49fe844aa784dcccc0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602434188919,
+        "stop" : 1602434192873,
+        "duration" : 3954
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "verify email field and enter emailID and click on Create an account button",
+      "uid" : "f651e689084013d6",
+      "parentUid" : "70e6791598a5e49fe844aa784dcccc0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602434192873,
+        "stop" : 1602434194189,
+        "duration" : 1316
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "fill personal information data registration page",
+      "uid" : "27061df47dec3a2",
+      "parentUid" : "70e6791598a5e49fe844aa784dcccc0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602434194189,
+        "stop" : 1602434198818,
+        "duration" : 4629
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "fill address details in registration page and click on Register button",
+      "uid" : "72485c016668ea2",
+      "parentUid" : "70e6791598a5e49fe844aa784dcccc0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602434198819,
+        "stop" : 1602434202953,
+        "duration" : 4134
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "verify account name in my account page and click on home icon",
+      "uid" : "fd16fe890f80003d",
+      "parentUid" : "70e6791598a5e49fe844aa784dcccc0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602434202954,
+        "stop" : 1602434205943,
+        "duration" : 2989
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "select product and add to cart",
+      "uid" : "9bbc3bdcec73ebed",
+      "parentUid" : "70e6791598a5e49fe844aa784dcccc0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602434205943,
+        "stop" : 1602434209598,
+        "duration" : 3655
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "Click on Proceed To Checkout button",
+      "uid" : "83566264fe33b665",
+      "parentUid" : "70e6791598a5e49fe844aa784dcccc0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602434209598,
+        "stop" : 1602434214054,
+        "duration" : 4456
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "Proceed till payment page and verify product in payment page",
+      "uid" : "93a4e3c6f7150389",
+      "parentUid" : "70e6791598a5e49fe844aa784dcccc0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602434214055,
+        "stop" : 1602434220576,
+        "duration" : 6521
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    } ],
+    "uid" : "70e6791598a5e49fe844aa784dcccc0b"
+  } ]
+}

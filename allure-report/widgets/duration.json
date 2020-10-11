@@ -1,0 +1,91 @@
+[ {
+  "uid" : "9473e8db0dc386f7",
+  "name" : "verify SignIn link exist and click on SignIn Link",
+  "time" : {
+    "start" : 1602434188919,
+    "stop" : 1602434192873,
+    "duration" : 3954
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f651e689084013d6",
+  "name" : "verify email field and enter emailID and click on Create an account button",
+  "time" : {
+    "start" : 1602434192873,
+    "stop" : 1602434194189,
+    "duration" : 1316
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bbc3bdcec73ebed",
+  "name" : "select product and add to cart",
+  "time" : {
+    "start" : 1602434205943,
+    "stop" : 1602434209598,
+    "duration" : 3655
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd16fe890f80003d",
+  "name" : "verify account name in my account page and click on home icon",
+  "time" : {
+    "start" : 1602434202954,
+    "stop" : 1602434205943,
+    "duration" : 2989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72485c016668ea2",
+  "name" : "fill address details in registration page and click on Register button",
+  "time" : {
+    "start" : 1602434198819,
+    "stop" : 1602434202953,
+    "duration" : 4134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83566264fe33b665",
+  "name" : "Click on Proceed To Checkout button",
+  "time" : {
+    "start" : 1602434209598,
+    "stop" : 1602434214054,
+    "duration" : 4456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a99be07c3d68cbe8",
+  "name" : "verify landing page title",
+  "time" : {
+    "start" : 1602434179744,
+    "stop" : 1602434188918,
+    "duration" : 9174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27061df47dec3a2",
+  "name" : "fill personal information data registration page",
+  "time" : {
+    "start" : 1602434194189,
+    "stop" : 1602434198818,
+    "duration" : 4629
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93a4e3c6f7150389",
+  "name" : "Proceed till payment page and verify product in payment page",
+  "time" : {
+    "start" : 1602434214055,
+    "stop" : 1602434220576,
+    "duration" : 6521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

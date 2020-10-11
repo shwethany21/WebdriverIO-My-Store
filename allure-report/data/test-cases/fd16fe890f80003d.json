@@ -1,0 +1,218 @@
+{
+  "uid" : "fd16fe890f80003d",
+  "name" : "verify account name in my account page and click on home icon",
+  "fullName" : "My Store app : Registration to Payment flow .verify account name in my account page and click on home icon",
+  "historyId" : "671b26fa1b29b45fdd2baeafbbd46869",
+  "time" : {
+    "start" : 1602434202954,
+    "stop" : 1602434205943,
+    "duration" : 2989
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1602434202955,
+        "stop" : 1602434202977,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2bc21e2cb6805ee5",
+        "name" : "Request",
+        "source" : "2bc21e2cb6805ee5.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "873ba3d6bf338c41",
+        "name" : "Response",
+        "source" : "873ba3d6bf338c41.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1602434202980,
+        "stop" : 1602434202990,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6f517f200a0b1cb8",
+        "name" : "Request",
+        "source" : "6f517f200a0b1cb8.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "dc2a9edfd14059ac",
+        "name" : "Response",
+        "source" : "dc2a9edfd14059ac.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1602434202990,
+        "stop" : 1602434203003,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6ba04a760a698f03",
+        "name" : "Request",
+        "source" : "6ba04a760a698f03.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "e2e1ad2211e0398b",
+        "name" : "Response",
+        "source" : "e2e1ad2211e0398b.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1602434203003,
+        "stop" : 1602434203015,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a5d67bb89c160de1",
+        "name" : "Request",
+        "source" : "a5d67bb89c160de1.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "f3a562867157b6d",
+        "name" : "Response",
+        "source" : "f3a562867157b6d.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1602434203017,
+        "stop" : 1602434203027,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5be2d58badbaad99",
+        "name" : "Request",
+        "source" : "5be2d58badbaad99.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "453c7a761b28a463",
+        "name" : "Response",
+        "source" : "453c7a761b28a463.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/dd324437-fb2d-49f6-baa7-a1e40ab807ea/click",
+      "time" : {
+        "start" : 1602434203027,
+        "stop" : 1602434205943,
+        "duration" : 2916
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 10
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Store app : Registration to Payment flow "
+  }, {
+    "name" : "testClass",
+    "value" : "My Store app : Registration to Payment flow "
+  }, {
+    "name" : "testMethod",
+    "value" : "verify account name in my account page and click on home icon"
+  }, {
+    "name" : "package",
+    "value" : "My Store app : Registration to Payment flow "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd16fe890f80003d.json",
+  "parameterValues" : [ "chrome-86.0.4240.75" ]
+}
